@@ -2,7 +2,7 @@
 [
     {
     "id": 1,
-    "image": "../images/Recent_posts_1.webp",
+    "image": "./images/Recent_posts_1.webp",
     "title": "Exploring the Rise of Indoor Jungle Gyms: Green Fitness Trends",
     "text": "Emma Greenfield / August 15, 2023",
     "description": "Dive into the latest fitness trend that blends nature and exercise. Discover howindoor jungle gyms are revolutionizing workouts by incorporating lush greenery, natural materials, and innovative training routines."
@@ -12,7 +12,7 @@
       "title": "Plant Parenthood Goes Hi-Tech: Unveiling Botanical Companion Apps",
       "text": "Alex Ramirez / August 25, 2023",
       "description": "Get ahead in the world of plant care with the latest smartphone apps designed to be your botanical best friend. Learn about app-assisted watering schedules, virtual plant identification, and personalized care tips to keep your green companions thriving.",
-      "image": "../images/Recent_posts_2.webp"
+      "image": "./images/Recent_posts_2.webp"
     },
     {
       "id": 3,
